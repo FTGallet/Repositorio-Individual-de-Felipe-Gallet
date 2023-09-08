@@ -1,14 +1,7 @@
 ## Tareas
 
-Cada tarea debe estar contenida en una carpeta llamada `Tarea_XX` donde `XX` es el número de la tarea. Si tiene un solo dígito, se debe anteponer un `0` a este.
+### En la primera clase realizamos una lluvia de ideas por grupo con la intención de definir en que proyecto trabajaremos durante el año.
+### Mi grupo está conformado por Maria Victoria Yeme e Ignacio Muñoz.
+### La actividad fue importante para poder escuchar el feedback de las profesoras y así poder guiar mejor nuestro trabajo.
 
-Ejemplo: 
-* ...
-* `Tarea_08`
-* `Tarea_09`
-* `Tarea_10`
-* `Tarea_11`
-* `Tarea_12`
-* ...
-
-Dentro de cada una de las tareas, **debes** tener un archivo `README.md` que utilice [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) donde expliques toda cosa asumida, consideración e información útil para tu corrector. 
+### En el siguiente link pueden ver nuestras ideas [https://miro.com/app/board/uXjVMuobuUE=/]
